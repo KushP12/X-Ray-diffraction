@@ -85,3 +85,4 @@ user = input("Enter which element you like graph: ")
 for each in range(6):
     if sheet.cell_value(each,0) == user:
         IntensityCal(sheet.cell_value(each, 0 + 1), 100, (1*10**-3), sheet.cell_value(each, 2), sheet.cell_value(each, 3))
+        
