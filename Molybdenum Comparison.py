@@ -1,4 +1,6 @@
 #Kramer's Law
+
+#import the necessary libraries required
 import matplotlib.pyplot as plt
 import numpy as np
 from math import e
